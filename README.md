@@ -51,7 +51,7 @@ Usage
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/grocery-list-manager.git
+git clone https://github.com/AhmedOmarG3/grocery-list-manager.git
 cd grocery-list-manager
 
 2. Run the program
